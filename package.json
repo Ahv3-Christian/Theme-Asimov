@@ -1,0 +1,32 @@
+{
+    "name": "asimov",
+    "displayName": "AsimoV",
+    "description": "theme cyberpunk neon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AsimoV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AsimoV-color-theme.json"
+            }
+        ]
+    },
+
+    "icon": "icon/asimov-eve-1.png" ,
+    "author":{
+        "name":"achriaeel",
+        "email": "achriaeel@gmail.com"       
+    },
+    "repository": {
+        "url": "https://github.com/theachriael/Asimov-3-vs",
+        "type": "git"
+    },
+    "publisher": "asimov"
+}
